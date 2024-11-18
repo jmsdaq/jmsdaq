@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## 🧑‍💻 Who am I?
+- I’m an aspiring software QA engineer with expertise in Python and Java programming languages.
+- I enjoy designing and building scalable automation frameworks and developing utilities that optimize testing and simplify automation workflows.
+- Focused on testing all layers of the application stack, I have worked with Web and Backend systems to ensure the delivery of robust and efficient test coverage.
+
+## 🌱 I’m currently learning about ...
+- Mobile Testing techniques and automation tools like Appium, Espresso, and XCUITest
+- CI/CD practices with Jenkins and GitLab CI  
+- Performance Testing and Load Testing using tools like JMeter and Locust
+- Web Development and Backend Testing techniques
 <!--
 **jmsdaq/jmsdaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
