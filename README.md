@@ -7,8 +7,8 @@
 
 ## 🌱 I’m currently learning about ...
 - Mobile Testing techniques and automation tools like Appium, Espresso, and XCUITest
-- CI/CD practices with Jenkins and GitLab CI  
 - Performance Testing and Load Testing using tools like JMeter and Locust
+- AWS tools such as EC2, S3, and Lambda for scalable environments, managing test artifacts, and optimizing QA workflows. 
 - Web Development and Backend Testing techniques
 <!--
 **jmsdaq/jmsdaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
