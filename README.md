@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ## 🧑‍💻 Who am I?
-- I’m an aspiring software QA engineer with expertise in Python and Java programming languages.
+- I’m an aspiring software QA engineer with expertise in automation testing, QA methodologies, and test tools.
 - I enjoy designing and building scalable automation frameworks and developing utilities that optimize testing and simplify automation workflows.
 - Focused on testing all layers of the application stack, I have worked with Web and Backend systems to ensure the delivery of robust and efficient test coverage.
 
